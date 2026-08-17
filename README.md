@@ -29,7 +29,7 @@ Streamlit Community Cloud.
 
 ## c. GitHub Repository Link
 
-> `<PASTE YOUR GITHUB REPO LINK HERE>`
+[https://github.com/vibha-raoo/bitsmlassignment](https://github.com/vibha-raoo/bitsmlassignment)
 
 Repository structure:
 ```
@@ -78,7 +78,7 @@ Breast Cancer Wisconsin dataset described above.
 
 ## Live Streamlit App
 
-> `<PASTE YOUR DEPLOYED STREAMLIT APP LINK HERE>`
+[https://2025ac05715.streamlit.app/](https://2025ac05715.streamlit.app/)
 
 ### App Features
 - **Dataset upload (CSV):** Upload `test_data.csv` (or any CSV with the
